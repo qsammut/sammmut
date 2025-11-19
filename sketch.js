@@ -50,7 +50,7 @@ function preload(){
 
 //////MUSIC/////
   roxy= loadSound("M.mp3");
-  mercy= loadSound("My Lady of Mercy.mp3");
+  mercy= loadSound("Mercy.mp3");
   anotherGirl= loadSound("Another Girl, Another Planet.mp3");
   ripple= loadSound("Ripple.mp3");
   mapp= loadSound("Get Out the Map.mp3");
